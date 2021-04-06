@@ -1,0 +1,17 @@
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\DotnetCoreTrilha.deps.json
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\DotnetCoreTrilha.runtimeconfig.json
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\DotnetCoreTrilha.runtimeconfig.dev.json
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\DotnetCoreTrilha.dll
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\bin\Debug\netcoreapp2.1\DotnetCoreTrilha.pdb
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.csprojAssemblyReference.cache
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.AssemblyInfoInputs.cache
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.AssemblyInfo.cs
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.csproj.CoreCompileInputs.cache
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.RazorAssemblyInfo.cache
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.RazorAssemblyInfo.cs
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.RazorTargetAssemblyInfo.cache
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.dll
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.pdb
+C:\Users\kerle\Google Drive\notebook kerley\TI\newThinkers\dotnet\atv1\DotnetCoreTrilha\DotnetCoreTrilha\obj\Debug\netcoreapp2.1\DotnetCoreTrilha.genruntimeconfig.cache
